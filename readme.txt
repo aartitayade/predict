@@ -69,10 +69,10 @@ To run the python script follow the steps below.
 3. go to downloaded repository/directory 
 4. run command:
    pip install .
-5  above command will install "predict" package
-6  now run belove commands to predict total count of rented bikes 
+   above command will install "predict" package
+5  now run below commands to predict total count of rented bikes 
    $predict
-7 predict will ask to enter atemp,hum(humadity),windspeed values for which you want total count of bikes
+6  predict will ask to enter atemp,hum(humadity),windspeed values for which you want total count of bikes
 
  
 ----------------------------------------------------------------------------------------------
